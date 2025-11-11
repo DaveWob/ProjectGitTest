@@ -1,2 +1,3 @@
 # ProjectGitTest
-Eine Zeile im Feature1 branch und wieder ein Konflikt
+Eine Testzeile im Feature1 branch mit Konflikt
+Zeile lokal hinzugefügt
