@@ -1,2 +1,2 @@
 # ProjectGitTest
-Eine testzeile im Feature1 branch
+Eine Testzeile im Feature1 branch mit Konflikt
